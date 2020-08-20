@@ -6,7 +6,8 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=nickofolas&show_icons=true&hide_border=true&theme=onedark" />
   </a>
   
-  I'm a 16 year old that loves to program<br><br>I'm currently working on learning as much as I can, 
+  ### I'm a 16 year old that loves to program
+  <br>I'm currently working on learning as much as I can, 
   whilst also gaining a deeper understanding of those I already know.
   
   While I am, as my repos reflect, primarily a Python programmer for the time being, 
@@ -19,7 +20,7 @@
 
 ---
 
-I'm open to commissions for Discord bots, and then best place to contact me for
+I'm open to commissions for Discord bots, and the best place to contact me for
 that would be shooting me a DM @nickofolas#1184 on Discord. 
 
 <!--
