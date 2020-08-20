@@ -1,4 +1,26 @@
-### Hi there 👋
+<p align="left">
+  <a href="https://github.com/nickofolas">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickofolas&theme=onedark&hide_border=true&layout=compact&card_width=445" />
+  </a>
+  <a href="https://github.com/nickofolas">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=nickofolas&show_icons=true&hide_border=true&theme=onedark" />
+  </a>
+  
+  I'm a 16 year old that loves to program<br><br>I'm currently working on learning as much as I can, 
+  whilst also gaining a deeper understanding of those I already know.
+  
+  While I am, as my repos reflect, primarily a Python programmer for the time being, 
+  I am exploring other languages such as C++ and JavaScript.
+  
+  My longest-running project is a Discord bot called `neo`, which you 
+  can check out [here](https://github.com/nickofolas/neo). I also run the
+  Reddit bot /u/TheReposterminator. You can check out that project [here](https://github.com/nickofolas/TheReposterminator).
+</p>
+
+---
+
+I'm open to commissions for Discord bots, and then best place to contact me for
+that would be shooting me a DM @nickofolas#1184 on Discord. 
 
 <!--
 **nickofolas/nickofolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
