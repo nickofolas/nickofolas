@@ -1,9 +1,9 @@
 <p align="left">
   <a href="https://github.com/nickofolas">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=nickofolas&show_icons=true&hide_border=true&theme=ayu-mirage" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=nickofolas&show_icons=true&hide_border=true&theme=ayu-mirage&bg_color=00000000" />
   </a>
   <a href="https://github.com/nickofolas">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickofolas&theme=ayu-mirage&hide_border=true&layout=compact&card_width=445" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickofolas&theme=ayu-mirage&hide_border=true&layout=compact&card_width=445&bg_color=00000000" />
   </a>
   
   ### I'm a 16 year old that loves to program
