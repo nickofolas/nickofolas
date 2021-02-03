@@ -18,11 +18,6 @@
   Reddit bot /u/TheReposterminator. You can check out that project [here](https://github.com/nickofolas/TheReposterminator).
 </p>
 
----
-
-I'm open to commissions for Discord bots, and the best place to contact me for
-that would be shooting me a DM @nickofolas#1184 on Discord. 
-
 <!--
 **nickofolas/nickofolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
